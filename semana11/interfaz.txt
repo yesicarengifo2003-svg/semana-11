@@ -1,0 +1,19 @@
+ LA INTERFAZ BÁSICA - PLATAFORMA COMUNITARIA
+
+La interfaz de la plataforma debe ser simple, clara y fácil de usar para que cualquier persona de la comunidad pueda participar sin confusión.
+
+En la parte superior tendría un formulario para crear una nueva causa.
+Este formulario incluiría campos como: título de la causa, descripción del problema, fecha de inicio y nombre del responsable.
+Ejemplo: "Título: Jornada de limpieza del parque" "Descripción: Recoger basura el sábado"
+
+En el centro de la página se mostraría una vista de todas las causas disponibles.
+Cada causa aparecería en una tarjeta con su título, descripción corta y el nombre de quien la creó.
+Así los usuarios pueden leer y elegir en cuál quieren participar.
+
+Cada tarjeta de causa tendría 2 elementos importantes:
+1. Un botón para apoyar la causa que diga "Apoyar". Al hacer clic se registra el apoyo del usuario.
+2. Un contador de apoyos que muestre cuántas personas han ayudado.
+Ejemplo: "Apoyos: 34 personas"
+
+La idea es que la interfaz sea visual, con colores suaves y botones grandes.
+De esta forma se motiva a la comunidad a crear causas y a apoyar las que ya existen.

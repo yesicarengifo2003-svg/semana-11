@@ -1,0 +1,33 @@
+MODELO DE DATOS - PLATAFORMA COMUNITARIA "AYUDA VECINAL"
+
+========================================
+Entidad: Causa
+Campos principales:
+- id: 1
+- titulo: Recolección de útiles escolares
+- descripcion: Recoger cuadernos, lápices y mochilas para niños de escasos recursos del barrio El Poblado
+- fecha_creacion: 2026-07-10
+- responsable: María González
+
+Propósito de la información:
+Guardar todas las iniciativas sociales que la comunidad propone. Sirve para que las personas conozcan en qué pueden ayudar y cuál es el objetivo de cada causas
+
+Entidad: Apoyo
+Campos principales:
+- id: 101
+- id_causa: 1
+- nombre_apoyante: Juan Pérez
+- tipo_apoyo: Donación de materiales
+- fecha_apoyo: 2026-07-11
+- cantidad: 10 cuadernos
+
+Propósito de la información:
+Llevar el registro de todas las personas que ayudan a cada causa. Permite saber quién apoyó, cómo y cuándo, para dar transparencia a la plataforma.
+
+
+RELACIÓN ENTRE ENTIDADES:
+Una Causa puede tener muchos Apoyos.
+Ejemplo: La "Causa 1" de útiles escolares recibió 25 apoyos diferentes.
+
+Un Apoyo solo pertenece a una Causa.
+Ejemplo: Los "10 cuadernos de Juan Pérez" solo van para la causa de útiles escolares.

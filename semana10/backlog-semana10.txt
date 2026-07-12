@@ -1,0 +1,11 @@
+1. Como ciudadano quiero registrar un problema de mi comunidad con foto y ubicación para que la veeduría tenga evidencia clara del caso.
+
+2. Como veedor quiero recibir una alerta por Telegram cuando llegue un nuevo reporte para asignarlo y darle seguimiento.
+
+3. Como ciudadano quiero consultar el estado de mi reporte para saber si ya fue atendido o está en proceso.
+
+4. Como coordinador de la veeduría quiero ver todos los reportes abiertos en un tablero para priorizar los más urgentes.
+
+5. Como ciudadano quiero votar y comentar los reportes de mi barrio para apoyar los casos más importantes de la comunidad.
+
+6. Como administrador quiero generar un informe mensual de los casos atendidos para rendir cuentas a la comunidad.

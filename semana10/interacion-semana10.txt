@@ -1,0 +1,18 @@
+¿Qué 2 tareas del backlog harías primero?
+
+1. Como ciudadano quiero registrar un problema de mi comunidad con foto y ubicación para que la veeduría tenga evidencia clara del caso.
+
+2. Como veedor quiero recibir una alerta por Telegram cuando llegue un nuevo reporte para asignarlo y darle seguimiento.
+
+
+¿Por qué son las más importantes?
+
+Porque sin estas 2 funciones no existe el ciclo básico del sistema. Primero el ciudadano debe poder reportar, y segundo el veedor debe enterarse de inmediato para poder actuar. Si faltan estas, el resto del sistema no sirve.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+
+Una tarea se considera "terminada" cuando cumple con estos 3 criterios:
+
+- Funciona correctamente y pasa las pruebas.
+- Fue revisada y aprobada por otro miembro del equipo.
+- El código y la documentación quedaron guardados en Git.

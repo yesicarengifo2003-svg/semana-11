@@ -1,0 +1,13 @@
+¿Por qué las metodologías ágiles, la automatización y canales como Telegram pueden ayudar a organizar mejor una comunidad o un proceso de participación ciudadana?
+
+
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten trabajar por partes pequeñas y priorizar lo más urgente. 
+Con historias de usuario y un backlog, la veeduría puede saber exactamente qué problemas atender primero según la comunidad.
+
+La automatización con herramientas como n8n evita que los veedores pierdan tiempo haciendo tareas manuales. 
+Por ejemplo, enviar alertas de nuevos reportes de forma automática.
+
+Usar canales como Telegram facilita la participación ciudadana porque es una app que casi todos tienen. 
+Permite notificar rápido, coordinar equipos y que la comunidad vea el avance en tiempo real.
+
+En resumen, unir ágiles + automatización + Telegram hace que el proceso sea más transparente, rápido y que más personas se involucren en la veeduría.
